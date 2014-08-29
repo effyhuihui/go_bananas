@@ -1,0 +1,23 @@
+## GO_BANANAS	
+This is a simple and silly but definitely GG (:p) written in python 3.3 with PIL package.
+
+
+**To install Pillow(>2.0) package in Linux**
+```bash
+$ sudo apt-get install python3-dev python3-setuptools
+```
+
+**To install Pillow(>2.0) in Mac OS using homebrew**
+```bash
+$ brew install libtiff libjpeg webp little-cms2
+```
+
+**easy install and pip install**
+```bash
+$ easy_install Pillow
+```
+
+```bash
+$ pip install Pillow
+```
+**To install Pillow on Windows**  : there is a ***.exe*** file included in the repo, simply download it and click :)
